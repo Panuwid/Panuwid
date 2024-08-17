@@ -26,5 +26,4 @@ I'm a recent Biotechnology graduate diving into the world of programming. This s
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Panuwid&theme=highcontrast&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
